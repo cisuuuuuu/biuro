@@ -66,7 +66,7 @@ nav ul {
     position: absolute;
     top: 100%;
     left: 0;
-    background-color: #555;
+    background-color: #333;
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -77,7 +77,7 @@ nav ul {
 }
 
 .submenu li a:hover {
-    background-color: #575757;
+    background-color: #555;
 }
 
 .menu_glowne.has-submenu:hover .submenu {
